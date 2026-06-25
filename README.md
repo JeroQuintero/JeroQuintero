@@ -127,9 +127,9 @@ Videojuego educativo desarrollado en CoSpaces durante el programa TecnoAcademia 
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=transparent"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=JeroQuintero&show_icons=true&theme=transparent"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=transparent"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JeroQuintero&layout=compact&theme=transparent"/>
 
 </p>
 
